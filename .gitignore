@@ -1,0 +1,7 @@
+# Langchain/.gitignore
+.env
+.env.*
+*.env
+**/.env
+**/venv/
+**/.venv/
